@@ -1,2 +1,3 @@
 # Thermostat-VHDL
 A digital thermostat controller implemented in VHDL for FPGA or ASIC design. The system monitors temperature readings from a digital sensor, compares them against configurable thresholds, and controls heating/cooling outputs accordingly.
+Developed a fully synthesizable thermostat controller in VHDL using combinational logic, sequential logic, and finite state machines (FSMs) for efficient temperature regulation. Verified functionality of all three design styles through simulation and waveform analysis, ensuring correct operation, responsiveness, and stability under diverse temperature conditions and transition scenarios.
